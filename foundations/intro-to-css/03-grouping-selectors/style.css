@@ -4,11 +4,11 @@
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
 
-.yback {
+.bback {
     background-color: black;
     color: white
 }
 
-.bback {
+.yback {
     background-color: rgba(242, 255, 0, 0.943);
 }
