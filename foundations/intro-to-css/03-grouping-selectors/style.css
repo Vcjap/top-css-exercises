@@ -1,0 +1,14 @@
+.yback,
+.bback {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.yback {
+    background-color: black;
+    color: white
+}
+
+.bback {
+    background-color: rgba(242, 255, 0, 0.943);
+}
