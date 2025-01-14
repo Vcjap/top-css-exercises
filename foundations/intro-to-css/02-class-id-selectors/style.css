@@ -6,3 +6,8 @@ p {
 small-font {
     font-size: 24px;
 }
+
+#second {
+    color:rgb(0, 0, 240);
+    font-size: 36px;
+}
